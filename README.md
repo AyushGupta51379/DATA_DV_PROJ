@@ -2,7 +2,7 @@
 
 ![Project start page](https://github.com/AyushGupta51379/SpotifySongRanking/blob/master/Project%20logo.png?raw=true)
 
-Data of Data Visualization project in Data Visualization course at The Hong Kong University of Science and Technology.
+Data of Data Visualization project in Data Visualization course at The Hong Kong University of Science and Technology, by Ayush Gupta (Om).
 
 Github repository for work done: https://github.com/AyushGupta51379/SpotifySongRanking
 
