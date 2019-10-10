@@ -4,6 +4,7 @@
 
 Data of Data Visualization project in Data Visualization course at The Hong Kong University of Science and Technology, by Ayush Gupta (Om).
 
+# Detailed repository
 Github repository for work done: https://github.com/AyushGupta51379/SpotifySongRanking
 
 # Group repository
